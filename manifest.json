@@ -1,0 +1,13 @@
+{
+  "version": "0.1",
+  "name": "arc-dark theme",
+  "manifest_version": 2,
+  "theme": {
+    "colors" : {
+      "frame" : [47, 52, 63],
+      "frame_inactive": [47, 52, 63],
+      "frame_incognito": [47, 52, 63],
+      "frame_incognito_inactive": [47, 52, 63]
+    }
+  }
+}
